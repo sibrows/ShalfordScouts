@@ -1,6 +1,6 @@
 html, body{
     max-width: 800px;
-    margin: auto 100px;
+    margin: 100px auto;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #444;
 }
