@@ -1,11 +1,13 @@
 html, body{
     max-width: 800px;
     margin: 100px auto;
+    padding-bottom: 200px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #444;
 }
 body{
     background: bottom left no-repeat url('https://sibrows.github.io/ShalfordScouts/Media/PurpleLogo.png');
+    background-size: 200px;
 }
 a{
     color: #7413DC;
