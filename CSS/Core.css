@@ -31,3 +31,7 @@ footer{
     font-size: 12px;
     color: #999;
 }
+footer p{
+    display: inline-block;
+    margin: 10px;
+}
