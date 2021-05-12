@@ -4,6 +4,9 @@ html, body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #444;
 }
+body{
+    background: bottom left no-repeat url('/Media/PurpleLogo.png');
+}
 a{
     color: #7413DC;
 }
