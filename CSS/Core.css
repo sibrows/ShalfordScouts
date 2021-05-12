@@ -5,7 +5,7 @@ html, body{
     color: #444;
 }
 body{
-    background: bottom left no-repeat url('/Media/PurpleLogo.png');
+    background: bottom left no-repeat url('https://sibrows.github.io/ShalfordScouts/Media/PurpleLogo.png');
 }
 a{
     color: #7413DC;
