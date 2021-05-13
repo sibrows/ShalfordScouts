@@ -34,6 +34,10 @@ nav{
     text-align: right;
     margin-bottom: 30px;
 }
+nav a{
+    font-weight: 600;
+    color: #006ddf;
+}
 img{
     max-width: 100%;
 }
