@@ -60,5 +60,6 @@ footer p:nth-child(3){
     text-align: right;
 }
 #CAFDonateWidgetContainer{
-    padding: 10px auto;
+    display: flex;
+    justify-content: space-around;
 }
