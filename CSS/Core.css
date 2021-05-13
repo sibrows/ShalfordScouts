@@ -1,11 +1,19 @@
 html, body{
-    max-width: 800px;
-    margin: 20px auto;
-    padding-bottom: 10px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #444;
     overflow-y: auto;
     overflow-x: hidden;
+}
+html{
+    background: middle top no-repeat url('https://sibrows.github.io/ShalfordScouts/Media/Scouts-GetKnotted.jpeg');
+    background-size: cover;
+}
+body{
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 10px;
 }
 a{
     color: #7413DC;
