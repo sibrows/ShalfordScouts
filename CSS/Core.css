@@ -35,5 +35,6 @@ footer p{
 footer p#Logo{
     background: bottom left no-repeat url('https://sibrows.github.io/ShalfordScouts/Media/PurpleLogo.png');
     background-size: 200px;
-    width: 200px;
+    min-width: 200px;
+    height: 70px;
 }
