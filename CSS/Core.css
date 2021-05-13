@@ -1,6 +1,6 @@
 html, body{
     max-width: 800px;
-    margin: 100px auto;
+    margin: 20px auto;
     padding-bottom: 10px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #444;
@@ -19,6 +19,7 @@ p{
 nav{
     width: 100%;
     text-align: right;
+    margin-bottom: 30px;
 }
 nav a{
     margin: 20px;
