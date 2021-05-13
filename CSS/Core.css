@@ -3,7 +3,7 @@ html, body{
     color: #444;
 }
 html{
-    background: middle top no-repeat url('https://sibrows.github.io/ShalfordScouts/Media/Scouts-GetKnotted.jpeg');
+    background: middle top no-repeat url('./Media/Scouts-GetKnotted.jpeg');
     background-size: cover;
     height: 100%;
     width: 100%;
@@ -51,7 +51,7 @@ footer p{
     min-height: 70px;
 }
 footer p#Logo{
-    background: bottom left no-repeat url('https://sibrows.github.io/ShalfordScouts/Media/PurpleLogo.png');
+    background: bottom left no-repeat url('./Media/PurpleLogo.png');
     background-size: 200px;
     min-width: 200px;
 }
