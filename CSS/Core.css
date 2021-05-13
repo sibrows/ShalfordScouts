@@ -29,6 +29,7 @@ footer{
 }
 footer p{
     display: inline-block;
+    width: 33%;
     margin: 10px;
 }
 footer p#Logo{
