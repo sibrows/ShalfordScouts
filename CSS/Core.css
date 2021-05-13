@@ -5,10 +5,6 @@ html, body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #444;
 }
-body{
-    background: bottom left no-repeat url('https://sibrows.github.io/ShalfordScouts/Media/PurpleLogo.png');
-    background-size: 200px;
-}
 a{
     color: #7413DC;
     text-decoration: none;
@@ -34,4 +30,9 @@ footer{
 footer p{
     display: inline-block;
     margin: 10px;
+}
+footer p#Logo{
+    background: bottom left no-repeat url('https://sibrows.github.io/ShalfordScouts/Media/PurpleLogo.png');
+    background-size: 200px;
+    width: 200px;
 }
