@@ -58,6 +58,6 @@ footer p#Logo{
 footer p:nth-child(3){
     text-align: right;
 }
-#CAFDonateWidgetContainer{
+#CAFDonateWidgetContainer iframe{
     margin: 10px auto;
 }
