@@ -113,6 +113,11 @@ h6{ color: var(--navy);}
     margin: -100px -10px;
     width: 800px;
 }
+.Grid .BeaverLogo,
+.Grid .CubsLogo,
+.Grid .ScoutsLogo,
+.Grid .ExplorerLogo,
+.Grid .NetworkLogo{ float: right;}
 .Purple,
 .Teal,
 .Green,
