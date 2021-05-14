@@ -101,7 +101,10 @@ footer p:nth-child(3){
 .Grid .Small p{
     align-self: flex-end;
 }
-.Grid img{ padding: none !important;}
+.Grid img{ 
+    padding: 0px !important;
+    background-size: contain;
+}
 .Purple,
 .Teal,
 .Green,
