@@ -86,10 +86,21 @@ footer p:nth-child(3){
 .Grid .Big{
     width: 100%;
     min-height: 200px;
+    padding: 10px;
 }
 .Grid .Small{
     width: 49%;
     min-height: 200px;
+    padding: 10px;
+}
+.Purple,
+.Teal,
+.Green,
+.Blue,
+.Pink,
+.Navy,
+.Yellow{ 
+    color: var(--white);
 }
 .Purple{ background-color: var(--purple);}
 .Teal{ background-color: var(--teal);}
