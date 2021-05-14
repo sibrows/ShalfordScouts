@@ -43,10 +43,10 @@ nav{
     width: 100%;
     text-align: right;
     margin-bottom: 30px;
+    background-color: var(--blue);
 }
 nav a{
     font-weight: 600;
-    background-color: var(--blue);
     color: var(--white);
 }
 img{
