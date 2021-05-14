@@ -89,19 +89,19 @@ footer p:nth-child(3){
 }
 .Grid .Big{
     width: 100%;
-    min-height: 200px;
+    height: 200px;
     padding: 10px;
 }
 .Grid .Small{
     width: 49%;
-    min-height: 200px;
+    height: 200px;
     padding: 10px;
 }
 .Grid .Big p,
 .Grid .Small p{
     align-self: flex-end;
 }
-.Grid .img{ padding: none !important;}
+.Grid img{ padding: none !important;}
 .Purple,
 .Teal,
 .Green,
