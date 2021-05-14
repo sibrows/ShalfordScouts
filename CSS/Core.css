@@ -97,11 +97,13 @@ h6{ color: var(--navy);}
     width: 100%;
     height: 200px;
     padding: 10px;
+    overflow: hidden;
 }
 .Grid .Small{
     width: 49%;
     height: 200px;
     padding: 10px;
+    overflow: hidden;
 }
 .Grid .Big p,
 .Grid .Small p{
