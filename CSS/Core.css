@@ -134,20 +134,30 @@ h6{ color: var(--navy);}
 .BeaverLogo{
     background: no-repeat center url('../Media/Branding/Beaver_RGB_white_stack1100w-1.png');
     background-size: contain;
+    width: 200px;
+    height: 200px;
 }
 .CubsLogo{
     background: no-repeat center url('../Media/Branding/Cubs_RGB_white_stack1100w-1.png');
     background-size: contain;
+    width: 200px;
+    height: 200px;
 }
 .ScoutsLogo{
     background: no-repeat center url('../Media/Branding/Scouts_RGB_white_stack1100w-1.png');
     background-size: contain;
+    width: 200px;
+    height: 200px;
 }
 .ExplorerLogo{
     background: no-repeat center url('../Media/Branding/Explorers_RGB_white_stack1100w-1.png');
     background-size: contain;
+    width: 200px;
+    height: 200px;
 }
 .NetworkLogo{
     background: no-repeat center url('../Media/Branding/Network_RGB_white_stack1100w-1.png');
     background-size: contain;
+    width: 200px;
+    height: 200px;
 }
