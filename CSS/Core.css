@@ -87,11 +87,13 @@ footer p:nth-child(3){
     width: 100%;
     min-height: 200px;
     padding: 10px;
+    vertical-align: bottom;
 }
 .Grid .Small{
     width: 49%;
     min-height: 200px;
     padding: 10px;
+    vertical-align: bottom;
 }
 .Purple,
 .Teal,
