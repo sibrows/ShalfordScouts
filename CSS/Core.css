@@ -109,7 +109,7 @@ h6{ color: var(--navy);}
 }
 .Grid .Big img{ 
     margin: -10px;
-    max-width: 100%;
+    width: calc(100%+20px);
 }
 .Purple,
 .Teal,
