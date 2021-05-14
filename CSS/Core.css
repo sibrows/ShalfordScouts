@@ -50,9 +50,6 @@ nav a{
     font-weight: 600;
     color: var(--white);
 }
-img{
-    max-width: 100%;
-}
 nav a{
     margin: 20px;
 }
@@ -104,6 +101,7 @@ footer p:nth-child(3){
 .Grid .Small p{
     align-self: flex-end;
 }
+.Grid .img{ padding: none !important;}
 .Purple,
 .Teal,
 .Green,
