@@ -43,6 +43,7 @@ nav{
     width: 100%;
     text-align: right;
     margin-bottom: 30px;
+    padding: 5px;
     background-color: var(--purple);
 }
 nav a{
@@ -67,7 +68,7 @@ footer p{
     min-height: 70px;
 }
 footer p#Logo{
-    background: bottom left no-repeat url('../Media/PurpleLogo.png');
+    background: bottom left no-repeat url('../Media/Branding/Group\ Logos\ 2018/');
     background-size: 200px;
     min-width: 200px;
 }
