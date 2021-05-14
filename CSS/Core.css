@@ -72,6 +72,12 @@ footer p#Logo{
 footer p:nth-child(3){
     text-align: right;
 }
+h1{ color: var(--purple);}
+h2{ color: var(--blue);}
+h3{ color: var(--green);}
+h4{ color: var(--red);}
+h5{ color: var(--teal);}
+h6{ color: var(--navy);}
 #TopLogo{
     background: bottom left no-repeat url('../Media/PurpleLogo.png');
     background-size: 200px;
