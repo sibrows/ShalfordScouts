@@ -83,7 +83,7 @@ footer p:nth-child(3){
     width: 100%;
     align-items: stretch;
 }
-.Grid .Large{
+.Grid .Big{
     width: 100%;
     min-height: 200px;
 }
