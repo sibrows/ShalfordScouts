@@ -78,6 +78,7 @@ footer p:nth-child(3){
     background: bottom left no-repeat url('../Media/PurpleLogo.png');
     background-size: 200px;
     min-width: 200px;
+    min-height: 100px;
 }
 #CAFDonateWidgetContainer{
     display: flex;
