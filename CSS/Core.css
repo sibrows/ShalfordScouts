@@ -113,11 +113,11 @@ h6{ color: var(--purple);}
     margin: -100px -10px;
     width: 800px;
 }
-.Grid .BeaverLogo,
+.Grid .BeaversLogo,
 .Grid .CubsLogo,
 .Grid .ScoutsLogo,
 .Grid .ExplorerLogo,
-.Grid .NetworkLogo{ float: right;}
+.Grid .NetworkLogo{ margin: 0px auto;;}
 .Purple,
 .Teal,
 .Green,
@@ -138,7 +138,7 @@ h6{ color: var(--purple);}
     color: var(--dark-bg);
 }
 
-.BeaverLogo{
+.BeaversLogo{
     background: no-repeat center url('../Media/Branding/Beaver_RGB_white_stack1100w-1.png');
     background-size: contain;
     width: 200px;
