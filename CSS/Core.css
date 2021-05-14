@@ -98,8 +98,7 @@ footer p:nth-child(3){
 .Green,
 .Blue,
 .Pink,
-.Navy,
-.Yellow{ 
+.Navy{ 
     color: var(--white);
 }
 .Purple{ background-color: var(--purple);}
@@ -109,4 +108,7 @@ footer p:nth-child(3){
 .Blue{background-color: var(--blue);}
 .Pink{background-color: var(--pink);}
 .Navy{background-color: var(--navy);}
-.Yellow{background-color: var(--yellow);}
+.Yellow{
+    background-color: var(--yellow);
+    color: var(--dark-bg);
+}
