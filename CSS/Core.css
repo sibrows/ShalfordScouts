@@ -74,6 +74,11 @@ footer p#Logo{
 footer p:nth-child(3){
     text-align: right;
 }
+#TopLogo{
+    background: bottom left no-repeat url('../Media/PurpleLogo.png');
+    background-size: 200px;
+    min-width: 200px;
+}
 #CAFDonateWidgetContainer{
     display: flex;
     justify-content: space-around;
@@ -87,13 +92,15 @@ footer p:nth-child(3){
     width: 100%;
     min-height: 200px;
     padding: 10px;
-    vertical-align: bottom;
 }
 .Grid .Small{
     width: 49%;
     min-height: 200px;
     padding: 10px;
-    vertical-align: bottom;
+}
+.Grid .Big p,
+.Grid .Small p{
+    align-self: flex-end;
 }
 .Purple,
 .Teal,
