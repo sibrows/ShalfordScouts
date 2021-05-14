@@ -1,22 +1,35 @@
+:root{
+    --purple: #7413DC;
+    --teal: #00a794;
+    --red: #e22e12;
+    --green: #23a950;
+    --blue: #006ddf;
+    --pink: #ffb4e5;
+    --navy: #003982;
+    --yellow: #ffe627;
+    --white: #fff;
+    --dark-bg: #333;
+    --light-grey: #999;
+}
 html, body{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
     color: #444;
 }
 html{
     height: 100%;
     width: 100%;
-    background-color: #fff;
+    background-color: var(--white);
 }
 body{
     max-width: 800px;
     margin: 20px auto;
     padding: 10px;
-    background-color: #fff;
+    background-color: var(--white);
     overflow-y: auto;
     overflow-x: hidden;
 }
 a{
-    color: #7413DC;
+    color: var(--purple);
     text-decoration: none;
 }
 a:hover{
@@ -33,7 +46,8 @@ nav{
 }
 nav a{
     font-weight: 600;
-    color: #006ddf;
+    background-color: var(--blue);
+    color: var(--white);
 }
 img{
     max-width: 100%;
@@ -43,7 +57,7 @@ nav a{
 }
 footer{
     font-size: 12px;
-    color: #999;
+    color: var(--light-grey);
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -64,3 +78,24 @@ footer p:nth-child(3){
     display: flex;
     justify-content: space-around;
 }
+.Grid{
+    display: flex;
+    width: 100%;
+    align-items: stretch;
+}
+.Grid .Large{
+    width: 100%;
+    min-height: 200px;
+}
+.Grid .Small{
+    width: 49%;
+    min-height: 200px;
+}
+.Purple{ background-color: var(--purple);}
+.Teal{ background-color: var(--teal);}
+.Red{ background-color: var(--red);}
+.Green{background-color: var(--green);}
+.Blue{background-color: var(--blue);}
+.Pink{background-color: var(--pink);}
+.Navy{background-color: var(--navy);}
+.Yellow{background-color: var(--yellow);}
