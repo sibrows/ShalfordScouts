@@ -123,6 +123,10 @@ h6{ color: var(--purple);}
     margin: -100px -10px;
     width: 800px;
 }
+.Details{
+    font-size: 10px;
+    color: var(--light-grey);
+}
 .Grid .BeaversLogo,
 .Grid .CubsLogo,
 .Grid .ScoutsLogo,
