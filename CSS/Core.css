@@ -42,7 +42,7 @@ p{
 nav{
     width: 100%;
     text-align: right;
-    margin-bottom: 30px;
+    margin: -30px 0px 30px 0px;
     padding: 5px;
     border-bottom: 2px solid var(--purple);
 }
@@ -94,8 +94,7 @@ h6{ color: var(--purple);}
 }
 #CEOP{
     width: 100px;
-    margin: 50px;
-
+    margin: 100px 50px 0px 80px;
 }
 .Grid{
     display: flex;
