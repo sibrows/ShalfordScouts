@@ -79,6 +79,7 @@ h4{ color: var(--red);}
 h5{ color: var(--teal);}
 h6{ color: var(--purple);}
 #TopLogo{
+    display: block;
     background: bottom left no-repeat url('../Media/PurpleLogo.png');
     background-size: 200px;
     min-width: 200px;
