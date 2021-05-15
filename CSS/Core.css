@@ -78,6 +78,8 @@ h3{ color: var(--green);}
 h4{ color: var(--red);}
 h5{ color: var(--teal);}
 h6{ color: var(--purple);}
+
+ol.abc{list-style-type: lower-latin;}
 #TopLogo{
     display: block;
     background: bottom left no-repeat url('../Media/PurpleLogo.png');
