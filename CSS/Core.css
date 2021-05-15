@@ -86,6 +86,7 @@ h6{ color: var(--purple);}
 }
 #TopRight{
     float: right;
+    font-size: 12px;
 }
 #CAFDonateWidgetContainer{
     display: flex;
