@@ -92,6 +92,11 @@ h6{ color: var(--purple);}
     display: flex;
     justify-content: space-around;
 }
+#CEOP{
+    width: 100px;
+    margin: 300px auto;
+
+}
 .Grid{
     display: flex;
     width: 100%;
