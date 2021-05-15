@@ -85,6 +85,7 @@ h6{ color: var(--purple);}
     min-width: 200px;
     min-height: 100px;
 }
+#TopLogo:hover{ text-decoration: none;}
 #TopRight{
     float: right;
     font-size: 12px;
