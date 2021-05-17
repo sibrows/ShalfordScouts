@@ -92,6 +92,10 @@ ol.abc{list-style-type: lower-latin;}
     float: right;
     font-size: 12px;
 }
+#Footer{
+    width: 100%;
+    height: 200px;
+}
 #CAFDonateWidgetContainer{
     display: flex;
     justify-content: space-around;
