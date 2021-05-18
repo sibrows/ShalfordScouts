@@ -95,6 +95,7 @@ ol.abc{list-style-type: lower-latin;}
 #Footer{
     width: 100%;
     overflow-x: visible;
+    min-height: 350px;
 }
 #CAFDonateWidgetContainer{
     display: flex;
