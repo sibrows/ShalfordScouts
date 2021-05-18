@@ -92,10 +92,15 @@ ol.abc{list-style-type: lower-latin;}
     float: right;
     font-size: 12px;
 }
+#Header{
+    width: 100%;
+    overflow-x: visible;
+    min-height: 105px;
+}
 #Footer{
     width: 100%;
     overflow-x: visible;
-    min-height: 350px;
+    min-height: 320px;
 }
 #CAFDonateWidgetContainer{
     display: flex;
