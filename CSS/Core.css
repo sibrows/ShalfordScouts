@@ -94,7 +94,7 @@ ol.abc{list-style-type: lower-latin;}
 }
 #HeaderContainer{
     width: 100%;
-    overflow-x: hidden;
+    overflow: hidden;
     min-height: 120px;
 }
 #Footer{
