@@ -59,6 +59,7 @@ footer{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+	overflow: hidden;
 }
 footer p{
     flex-grow: 1;
@@ -123,6 +124,7 @@ ol.abc{list-style-type: lower-latin;}
 }
 .Grid .Small{
     width: 49%;
+	min-width: 200px;
     height: 200px;
     padding: 10px;
     overflow: hidden;
