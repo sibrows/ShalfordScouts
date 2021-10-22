@@ -115,6 +115,7 @@ ol.abc{list-style-type: lower-latin;}
     display: flex;
     width: 100%;
     align-items: stretch;
+    overflow: hidden;
 }
 .Grid .Big{
     width: 100%;
@@ -123,8 +124,7 @@ ol.abc{list-style-type: lower-latin;}
     overflow: hidden;
 }
 .Grid .Small{
-    width: 49%;
-	min-width: 200px;
+	min-width: 180px;
     height: 200px;
     padding: 10px;
     overflow: hidden;
